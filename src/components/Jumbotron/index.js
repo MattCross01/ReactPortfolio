@@ -7,7 +7,7 @@ function Jumbotron () {
             <div className="container h-100">
                 <div className="row h-100 align-items-center justify-content-center text-center">
                     <div className="col-lg-10 align-self-end">
-                        <h1 className="text-white font-weight-medium">Full Stack Web Developer</h1>
+                        <h1 className="text-white font-weight-medium">Student Full Stack Web Developer</h1>
                     </div>
                     <hr></hr>
                     <div className="col-lg-8 align-self-baseline">
